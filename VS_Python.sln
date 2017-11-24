@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VS_Python", "VS_Python\VS_Python.pyproj", "{CAB77FFD-1327-413F-9C54-E45092E24438}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Odd_no_of_divisors", "PythonApplication1\Odd_no_of_divisors.pyproj", "{AE540F4C-0812-4868-B724-1F7F6023DBFF}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Odd_no_of_divisors", "Odd_no_of_divisors\Odd_no_of_divisors.pyproj", "{AE540F4C-0812-4868-B724-1F7F6023DBFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
