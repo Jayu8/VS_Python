@@ -5,7 +5,7 @@ import math
 # *************** Write test cases, BETTER ON NOTEBOOK ON GITHUB , FOLLOW STEPS BY CTCI ********************
 class square_root_sorted(object):
     """loop upto square root of number and sort"""
-    def printDivisors(n) :
+    def printDivisors(n) :                          # sqrt+1 WRONG => because first 4x5 then followed by 5x4  because of '+1' term
         v = []
         sq_no = int(math.sqrt(n))                   # *** dont add + 1 here , else some divisors repeat
         for i in range(1,sq_no+1):                   # try to keep loop simple as posible #WHY??Error was sqrt(n) was float hence replaced with new variable
